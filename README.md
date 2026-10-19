@@ -199,7 +199,7 @@ Ghaida Mohammed Alkhalid
 
 
 
-* Technologies Used:
+* Technologies Used
 
 HTML5
 
